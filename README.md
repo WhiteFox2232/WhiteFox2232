@@ -39,7 +39,15 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I'm a Multi-language Developer :wave: 
+## 📡 Dev Skill
+- **Javascript** for Discord bot
+- **C++** for School
+- **Java** for Minecraft Plugin ( cf Hera )
+- **Python** for fun
+
+## 💻 Work at
+- [@Paladium](https://discord.gg/paladium) » Discord + & Support Senior Moderator
+- [@Inoxtag](https://www.youtube.com/channel/UCL9aTJb0ur4sovxcppAopEw) » YouTube Moderator
 
 ---
 
