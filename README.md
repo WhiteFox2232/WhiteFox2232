@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/IgDC5yl5uyjKw/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/B1xlEHtKiFM9W/giphy.gif" width="300"/>
   <p> </p>
 </div>
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :man_technologist: About Me :
+### 🍃 About Me :
 
 ## 📡 Dev Skill
 - **Javascript** for Discord bot
