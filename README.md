@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center" id="badges">
-  <a href="https://www.twitch.tv/whitefox2232" target=”_blank” >
+  <a href="https://www.twitch.tv/whitefox2232" target="_blank" >
     <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCRSfNtmAmikEx3CKsKgfL-w" target=”_blank” >
+  <a href="https://www.youtube.com/channel/UCRSfNtmAmikEx3CKsKgfL-w" target="_blank" >
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/WhiteFoxOff" target=”_blank” >
+  <a href="https://twitter.com/WhiteFoxOff" target="_blank" >
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
