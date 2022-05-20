@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ## 📡 Dev Skill
 - **Javascript** for Discord bot
 - **C++** for School
-- **Java** for Minecraft Plugin ( cf Hera )
+- **Java** for Minecraft Plugin ( cf [Hera](https://github.com/WhiteFox2232/Hera) )
 - **Python** for fun
 
 ## 💻 Work at
