@@ -61,7 +61,13 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitefox2232&layout=compact&theme=vision-friendly-dark" alt=""/>
 </a>
 
+---
 
-
+<a href="https://wakatime.com">
+<img src="https://wakatime.com/share/@WhiteFox/c5c5b148-250b-4b3f-a403-ae35e297db36.png" width="500"/>
+<img src="https://wakatime.com/share/@WhiteFox/c7726418-a73b-4160-9729-3daed027e3cf.png" width="500"/>
+<img src="https://wakatime.com/share/@WhiteFox/038e3cc9-0a68-483a-a952-9641e822fb44.png" width="500"/>           
+<img src="https://wakatime.com/share/@WhiteFox/068f7632-3f22-49ed-9a92-09d4d675ec7a.png" width="500"/> </a>                                                                                               
+                                                                                          
 
 
