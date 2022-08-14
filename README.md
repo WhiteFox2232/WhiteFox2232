@@ -64,9 +64,8 @@ Here are some ideas to get you started:
 ---
 
 <a href="https://wakatime.com">
-<img src="https://wakatime.com/share/@WhiteFox/c5c5b148-250b-4b3f-a403-ae35e297db36.png" width="300"/>
-<img src="https://wakatime.com/share/@WhiteFox/038e3cc9-0a68-483a-a952-9641e822fb44.png" width="300"/>           
-<img src="https://wakatime.com/share/@WhiteFox/068f7632-3f22-49ed-9a92-09d4d675ec7a.png" width="300"/> </a>                                                                                               
+<img src="https://wakatime.com/share/@WhiteFox/c5c5b148-250b-4b3f-a403-ae35e297db36.png" width="500"/>
+<img src="https://wakatime.com/share/@WhiteFox/038e3cc9-0a68-483a-a952-9641e822fb44.png" width="500"/> </a>                                                                                               
                                                                                           
 
 
