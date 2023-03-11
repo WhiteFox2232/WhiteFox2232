@@ -30,6 +30,3 @@ Work at [`@TechDevOS`](https://techdev-os.fr) as **Manager** and **Java Develope
 ### 🎈 OS I use
 
 > <img src="https://media.discordapp.net/attachments/785951129187778614/1058509962780884992/OS.png?width=666&height=192" width="256" />
-
-### 📊 Let's talk statistics
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=WhiteFox&theme=dark"/>
