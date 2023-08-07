@@ -1,6 +1,6 @@
-### Hi there 👋 , i'm WhiteFox.
+### Hi there 👋 , i'm Maël.
 <p>
-  Student in high school, lives in Normandy, in France.
+  French student in IT
 </p>
 
 Work at [`@TechDevOS`](https://techdev-os.fr) as **Manager** and **Java Developer**.
