@@ -1,8 +1,10 @@
 ### Hi there 👋 , i'm Maël.
-<p>
-  French student in IT. 🇫🇷
-</p>
+- I'm a french student at [@Epitech](https://epitech.eu)
+- I work at [@TechDevOS](https://techdev-os.fr) as Manager & Java Developer
 
-Work at [`@TechDevOS`](https://techdev-os.fr) as **Manager** and **Java Developer**.
 
+## 🛠️ Dev Skill
+- Java
+- JavaScript
+- Swift
 ---
