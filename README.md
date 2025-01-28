@@ -19,18 +19,6 @@
 - **DevOps & Cloud:** Docker, Kubernetes, GitHub Actions
 - **IDEs:** IntelliJ IDEA, CLion, PyCharm, WebStorm
 
----
-
-## 📌 Pinned Projects
-- 🚀 [tekbetter-server](https://github.com/EliotAmn/tekbetter-server) *(TypeScript)*
-- 🐍 [Mouli-Alert](https://github.com/mael-app/Mouli-Alert) *(Python)*
-- ☕ [Workshop-Spigot](https://github.com/mael-app/Workshop-Spigot) *(Java)*  
-
----
-
-## 📫 Connect with Me
-- 🌐 [Website](https://justmael.me)
-- 💬 [Discord](https://discord.com/users/740900329213657089)
 
 ** **
 [![wakatime](https://wakatime.com/badge/user/2c78f19d-7d01-4fa5-b17a-ff5406dba5af.svg)](https://wakatime.com/@2c78f19d-7d01-4fa5-b17a-ff5406dba5af)
