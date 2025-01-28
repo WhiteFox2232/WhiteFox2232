@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Maël!
 
 🎓 French student at [Epitech](https://www.epitech.eu/)  
-💼 Manager & Java Developer at [Shaptown](https://shaptown.com/)  
+💼 Manager & Java Developer at [Shaptown](https://shaptwn.com/)  
 💻 Passionate about **software engineering**, **coding standards**, and **best practices**  
 
 ---
